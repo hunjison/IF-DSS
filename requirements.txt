@@ -1,0 +1,6 @@
+base58==2.1.1
+geocoder==1.38.1
+folium==0.14.0
+protobuf==3.20.3
+art==5.9
+click==8.1.3

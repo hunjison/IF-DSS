@@ -1,5 +1,7 @@
 # IF-DSS: forensic Investigation Framework of Decentralized Storage Services
 
+***Congratulations! This project has been accepted to DFRWS APAC 2023 and Forensic Science International: Digital Investigation*** 
+
 We propose a novel forensic investigation framework for DSS, named IF-DSS, as depicted in Figure 2. The framework comprises detailed steps that are categorized into remote and local investigations, depending on the location where potential digital evidence may be stored. Building upon the traditional digital forensic framework, our IF-DSS framework incorporates the necessary steps for effectively responding to DSS, including (1) identification and preparation, (2) collection and preservation, (3) examination and analysis, and (4) prevention.
 
 
